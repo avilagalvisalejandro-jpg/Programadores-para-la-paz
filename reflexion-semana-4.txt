@@ -1,5 +1,1 @@
-¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
-
-
-
-\Las APIs pueden ayudar a las comunidades a compartir información, reportes o alertas de manera organizada porque permiten que diferentes aplicaciones y plataformas intercambien datos automáticamente. Gracias a ellas, los reportes de incidentes, alertas de emergencia o información comunitaria pueden enviarse, almacenarse y consultarse en tiempo real, facilitando una comunicación más rápida, eficiente y accesible para todos los miembros de la comunidad.
+e- ¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?\n\nEs importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js porque les permite desarrollar soluciones adaptadas a sus necesidades, sin depender de software costoso o de empresas externas. Además, fomenta la participación, la colaboración y la innovación, facilitando la creación de plataformas para compartir información, gestionar reportes comunitarios y mejorar la comunicación entre los ciudadanos.

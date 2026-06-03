@@ -1,5 +1,0 @@
-Ejecuta el servidor desde la terminal
-
-Node server.js
-Luego prueba en el navegador las siguientes rutas:
-http://localhost:3000 http://localhost:3000/saludo http://localhost:3000/mensaje/juan Describe brevemente en un archivo llamado pruebas.txt qué ocurre en cada una de esas rutas.
