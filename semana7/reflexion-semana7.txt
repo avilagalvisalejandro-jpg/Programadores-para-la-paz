@@ -1,0 +1,5 @@
+Reflexión semana 7 
+
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica porque facilita la identificación y el seguimiento de problemas que afectan a la comunidad. Además, permite organizar la información de manera estructurada, mejorar la comunicación entre ciudadanos y responsables de atender los casos, dar transparencia al proceso de gestión y contribuir a que las soluciones se implementen de forma más eficiente y oportuna.
+
+En resumen, se usa el formato como JSON para recibir peticiones POST las cuales son clave para construir una plataforma moderna que conecte con la comunidad brindando atención, servicio y respuesta.

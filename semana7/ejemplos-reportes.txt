@@ -1,0 +1,18 @@
+Ejemplos de JSON de reportes ciudadanos al registrarse en el sistema
+
+Un ciudadano puede enviar una petición POST a:
+- URL:http://localhost:3000/reportes
+
+Con el siguiente JSON en el cuerpo de la petición:
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripción": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripción": "Acumulación de residuos en una zona comunitaria"
+}

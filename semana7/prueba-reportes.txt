@@ -1,0 +1,21 @@
+Prueba de post / Reporte
+
+Para probrar el reporte use Thunder client (Extesion de vs code)
+
+Configurando la petición:
+- Método:post
+- URL:http://localhost:3000/reportes 
+- Body (Json Enviado) : 
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Respuesta:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
