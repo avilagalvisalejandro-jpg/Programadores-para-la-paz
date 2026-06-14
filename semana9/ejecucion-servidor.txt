@@ -1,0 +1,14 @@
+Cuando ejecuto node server.js
+
+-URL : http://localhost:3000/estado
+-Body (JSON enviado):
+
+Mensaje De Terminal : 
+"Servidor activo y funcionando"
+
+que sucede cuando se visita la ruta /estado:
+
+"{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}"
