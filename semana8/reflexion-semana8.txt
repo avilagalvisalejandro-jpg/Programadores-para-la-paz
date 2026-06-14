@@ -1,0 +1,5 @@
+es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos
+ porque ayuda a resguardar la información de los usuarios, evitar accesos no autorizados y garantizar que los datos compartidos sean
+ confiables y estén protegidos. Además, permite prevenir ataques, pérdidas de información y usos
+ indebidos de los recursos de la plataforma. Al implementar buenas prácticas de seguridad, se fortalece
+ la confianza de la comunidad, se promueve una participación segura y se asegura el correcto funcionamiento de la plataforma.

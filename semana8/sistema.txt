@@ -1,0 +1,18 @@
+Que información muestra cada comando?
+
+
+1. Linux → Nombre del kernel o sistema operativo.
+2. codespaces-1f31b9 → Nombre del equipo (hostname).
+3. 6.8.0-1052-azure → Versión del kernel de Linux.
+4. #58~22.04.1-Ubuntu → Número de compilación y versión de Ubuntu.
+5. SMP → Soporte para múltiples procesadores (Symmetric Multi-Processing).
+6. Thu Mar 26 05:02:21 UTC 2026 → Fecha de compilación del kernel.
+7. x86_64 → Arquitectura de 64 bits.
+8. GNU/Linux → Sistema basado en GNU y Linux.
+
+Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Porque permite identificar las características del entorno donde se ejecutan las aplicaciones, como el
+ sistema operativo, la versión del kernel, la arquitectura y el usuario activo.
+ Esta información ayuda a realizar configuraciones adecuadas, instalar software
+ compatible, aplicar actualizaciones de seguridad, diagnosticar problemas y garantizar que el servidor funcione de manera estable y segura.

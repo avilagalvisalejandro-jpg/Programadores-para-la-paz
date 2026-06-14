@@ -1,0 +1,5 @@
+1. Gestionar Con Cuidado Permisos y Roles
+2. Validar Datos Ingresados Por Los Usuarios
+3. Utilizar Conexiones Seguras
+4. Capacitar Administradores y Usuarios En Buenas Practicas
+5. Monitorear Actividades Importantes 
