@@ -1,0 +1,14 @@
+Flujo simple de automatización con n8n y Telegram
+
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando un ciudadano registra un nuevo reporte en la plataforma comunitaria.
+
+¿Qué mensaje se enviaría a Telegram?
+
+Mensaje: "Nuevo reporte recibido. Ingresa al sistema para revisarlo y asignar el seguimiento correspondiente."
+
+¿Qué información no debería enviarse por seguridad?
+
+No se deben enviar por Telegram datos sensibles como nombres completos, números de documento de identidad, direcciones, números de teléfono, contraseñas, correos electrónicos o cualquier otra información personal que pueda comprometer la privacidad de los ciudadanos.
+nano 
