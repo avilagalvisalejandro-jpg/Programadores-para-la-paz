@@ -1,0 +1,12 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta muy importante para 
+fortalecer la participación ciudadana y la organización comunitaria. Comprendí que las 
+plataformas digitales facilitan la comunicación entre las personas y permiten que las comunidades expresen 
+sus necesidades de manera más organizada. Además, entendí la importancia de utilizar bases de datos 
+para almacenar información y gestionar el apoyo a diferentes causas. 
+También aprendí que la seguridad digital es fundamental para proteger los datos 
+personales de los usuarios. Otro aspecto importante fue conocer cómo la automatización, 
+mediante herramientas como n8n y Telegram, ayuda a agilizar procesos y enviar notificaciones. Asimismo, comprendí 
+que el desarrollo tecnológico no consiste únicamente en programar, sino también en 
+crear soluciones útiles para la sociedad. Finalmente, considero que la tecnología tiene 
+el potencial de generar cambios positivos cuando se utiliza para 
+promover la participación, la transparencia y el trabajo colaborativo.

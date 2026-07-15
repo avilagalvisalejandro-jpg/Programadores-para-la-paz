@@ -1,0 +1,12 @@
+Automatización con n8n y Telegram
+
+- Evento que activa la automatización: cuando un ciudadano registra una nueva 
+causa en la plataforma “Petición en 3 Clics”.
+- Mensaje que se envía: «Nueva causa creada en la plataforma. Revise el panel 
+para conocer el título y la fecha de registro.
+- Información que no debe enviarse por seguridad: datos personales como 
+números de identificación, teléfonos, direcciones, correos electrónicos, 
+comentarios privados o cualquier información sensible de los usuarios.
+
+Esta automatización permite informar rápidamente a los administradores sobre 
+nuevas iniciativas comunitarias sin poner en riesgo la privacidad de los participantes.

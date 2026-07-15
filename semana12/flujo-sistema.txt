@@ -1,0 +1,10 @@
+1. Un ciudadano ingresa a la plataforma y crea una causa explicando el 
+problema o la necesidad de la comunidad.
+2. La información de la causa queda almacenada y organizada en una base de datos.
+3. Otros ciudadanos pueden acceder a la plataforma y apoyar la causa registrada.
+4. Cada apoyo se guarda automáticamente y el sistema actualiza el contador de apoyos.
+5. Cuando la causa obtiene los apoyos necesarios, el sistema recopila la 
+información registrada.
+6. Finalmente, la plataforma genera un documento PDF con la petición para que 
+pueda ser compartido o presentado ante las entidades correspondientes.
+

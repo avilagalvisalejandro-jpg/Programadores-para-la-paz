@@ -1,0 +1,23 @@
+
+Entidad: Causa
+-id: identificador único de la causa.
+-titulo: nombre o tema principal de la causa.
+-descripción: explicación detallada del problema o necesidad.
+-fecha: fecha en la que se creó la causa.
+
+¿Para qué sirve?
+Esta entidad permite almacenar la información principal de cada petición 
+o iniciativa creada por la comunidad.
+
+________________________________________________________
+
+Entidad: Apoyo
+-id: identificador único del apoyo registrado.
+-causa_id: identifica la causa a la que pertenece el apoyo.
+-nombre: nombre de la persona que apoya la causa.
+-+fecha: fecha en la que se registró el apoyo.
+
+¿Para qué sirve?
+Esta entidad sirve para guardar los apoyos recibidos por cada causa y 
+relacionarlos con la petición correspondiente, permitiendo 
+conocer cuántas personas respaldan la iniciativa.
